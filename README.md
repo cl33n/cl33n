@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @cl33n
-- 👀 I’m interested in open soruce contribution and game dev. I also make music
-- 🌱 I’m currently learning!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...i
+- 👀 I’m interested in infrastructure as code, cloud admin, hybrid environment admin
+- 🌱 I’m currently learning terraform, bash (forever), azure cli
 
 <!---
 cl33n/cl33n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
