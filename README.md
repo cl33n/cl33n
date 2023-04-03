@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cl33n
-- 👀 I’m interested in infrastructure as code, cloud admin, hybrid environment admin
+- 👀 I’m interested in infrastructure as code, linux admin, cloud admin, hybrid environment admin
 - 🌱 I’m currently learning terraform, bash (forever), azure cli
 
 <!---
